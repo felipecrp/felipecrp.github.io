@@ -1,3 +1,9 @@
+---
+layout: home
+---
+
+![self_pic]
+
 I´m Ph.D. Student at the Computing Institute of Universidade Federal Fluminense (UFF) and Infrastructure IT Leader at Brazillian Development Bank.  
 
 My broad research area is software engineering, and my current research project is in continuous software engineering, software release evolution, and software development and operation integration, i.e., DevOps. The questions that motivate this research include:
@@ -16,3 +22,5 @@ You can find me online at:
 
 Or just send an e-mail to <felipecrp@id.uff.br> or <felipecrp@bndes.gov.br>.
 
+[self_pic]: /assets/foto-400.jpg
+{:style="float:right; margin-left: 1.5em; margin-bottom: 1em; border-radius: 100%; width: 150px; height: 150px"}
