@@ -4,7 +4,7 @@ layout: home
 
 ![self_pic]
 
-I´m Ph.D. Student at the Computing Institute of Universidade Federal Fluminense (UFF) and Infrastructure IT Leader at Brazillian Development Bank.  
+I´m Ph.D. Student at the Computing Institute of Universidade Federal Fluminense (UFF) and IT Infrastructure Leader at Brazillian Development Bank.  
 
 My broad research area is software engineering, and my current research project is in continuous software engineering, software release evolution, and DevOps. The questions that motivate my research include:
   - What are the effects of continuous software engineering on software quality and collaboration?
