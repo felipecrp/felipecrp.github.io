@@ -4,17 +4,16 @@ layout: home
 
 ![self_pic]
 
-I´m Ph.D. Student at the Computing Institute of Universidade Federal Fluminense (UFF) and IT Infrastructure Leader at Brazillian Development Bank.  
+I´m Ph.D. Student at the Computing Institute of Universidade Federal Fluminense (UFF) and IT Infrastructure Team Leader at Brazillian Development Bank.  
 
-My broad research area is software engineering, and my current research project is in continuous software engineering, software release evolution, and DevOps. The questions that motivate my research include:
+My broad research area is software engineering, and my current research project is in continuous software engineering, automated software engineering, software release evolution, Infrastructure as code (IaC), and DevOps. The questions that motivate my research include:
   - What are the effects of continuous software engineering on software quality and collaboration?
   - What are the benefits and perils of continuous software engineering?
   - How to enable continuous software development?
 
 I´m also interested in other software engineering topics, such as software repository mining, feature toggles, software quality, collaborative development, software metrics, and automation. I´m also interested in information security topics, mostly in secure software development and access control.
 
-I hold an M.Sc. (2009) degree in Systems Engineering and Computer Science from COPPE/UFRJ, an M.B.A. (2016) in Business Administration from COPPEAD/UFRJ, and a B.Eng. (2005) degree in Computer and Electronic Engineering from DEL/UFRJ. You can check my resume at [LinkedIn].
-
+I hold an M.Sc. (2009) degree in System Engineering and Computer Science from COPPE/UFRJ, an M.B.A. (2016) in Business Administration from COPPEAD/UFRJ, and a B.Eng. (2005) degree in Computer and Electronic Engineering from DEL/UFRJ. You can check my resume at [LinkedIn].
 
 You can find me online at:
   - [ResearchGate]
