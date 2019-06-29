@@ -4,7 +4,7 @@ layout: home
 
 ![self_pic]
 
-I´m a Ph.D. Student at the Computing Institute of Fluminense Federal University (UFF) and IT Infrastructure Team Leader at Brazillian Development Bank.
+I´m a Ph.D. Student at the Computing Institute of Fluminense Federal University (UFF) and IT Infrastructure Team Leader at Brazilian Development Bank.
 
 My broad research area is software engineering, and my current research project is in software releases. The questions that motivate my research include:
 
