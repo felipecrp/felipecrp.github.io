@@ -22,7 +22,7 @@ permalink: /publications/
 
   - SPINOLA, R. O. ; **PINTO, F. C. R.** ; TRAVASSOS, G. H. . Apoio às Atividades de Especificação e Verificação de Requisitos Funcionais de Ubiqüidade em Projetos de Software. In: 7th International Information and Telecommunication Technologies Symposium (I2TS), 2008, Foz do Iguaçu. 7th International Information and Telecommunication Technologies Symposium, 2008.
 
-  - SPÍNOLA, RODRIGO O. ; **PINTO, F. C. R.** ; TRAVASSOS, G. H. . Supporting Requirements Definition and Quality Assurance in Ubiquitous Software Project. In: 3rd International Symposium on Leveraging Applications of Formal Methods, Verification and Validation, 2008, Kassandra, Chalkidiki, Greece. 3rd International Symposium on Leveraging Applications of Formal Methods, Verification and Validation, 2008.]
+  - SPÍNOLA, RODRIGO O. ; **PINTO, F. C. R.** ; TRAVASSOS, G. H. . Supporting Requirements Definition and Quality Assurance in Ubiquitous Software Project. In: 3rd International Symposium on Leveraging Applications of Formal Methods, Verification and Validation, 2008, Kassandra, Chalkidiki, Greece. 3rd International Symposium on Leveraging Applications of Formal Methods, Verification and Validation, 2008.
   [[doi](https://doi.org/10.1007/978-3-540-88479-8_42)]
 
   - **PINTO, F. C. R.**; SPÍNOLA, RODRIGO O. ; TRAVASSOS, G. H. . Abordagem para Apoiar a Definição de Requisitos de Software Ubíquo. In: II Workshop on Pervasive and Ubiquitous Computing (WPUC), 2008, Campo Grande. II Workshop on Pervasive and Ubiquitous Computing (WPUC), 2008.
