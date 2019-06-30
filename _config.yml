@@ -7,3 +7,4 @@ theme: minima
 google_analytics: UA-126216409-1
 plugins:
   - jekyll-seo-tag
+  - jekyll-sitemap
