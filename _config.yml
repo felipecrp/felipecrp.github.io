@@ -1,7 +1,9 @@
 title: Felipe Curty do Rego Pinto
-description: Ph.D. Student and IT Infrastructure Leader
+description: Ph.D. Student and IT Infrastructure Team Leader
 
 markdown: kramdown
 theme: minima
 
 google_analytics: UA-126216409-1
+plugins:
+  - jekyll-seo-tag
