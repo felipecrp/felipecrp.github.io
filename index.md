@@ -9,7 +9,7 @@ I´m a Ph.D. Student at the Computing Institute of Fluminense Federal University
 My broad research area is software engineering, and my current research project is in software releases. The questions that motivate my research include:
 
   - What are the effects of short and rapid releases on software quality and security?
-  - How to automatically generate software releases changelogs?
+  - How to automatically generate software release changelogs?
 
 I´m also interested in other software engineering topics, such as software repository mining, infrastructure as code (IaC), devops, automated software engineering, and continuous deployment. I´m also interested in information security topics, including secure software development, access control, and blockchain.
 
