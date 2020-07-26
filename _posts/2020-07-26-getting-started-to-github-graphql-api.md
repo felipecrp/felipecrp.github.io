@@ -1,7 +1,8 @@
-
 ---
 layout: post
 title:  "Getting started to GitHub GraphQL API"
+comments: true
+excerpt_separator: <!--more-->
 ---
 
 The GitHub GraphQL API (aka GitHub API v4) is a significant improvement on its API and enables researchers to interact with GitHub more efficiently. Although similar results can be achieved with the old API, depending on the required data, researchers need to make the first query and then make subqueries to fetch corresponding data, leading to problems with the API rate limits.
@@ -9,6 +10,8 @@ The GitHub GraphQL API (aka GitHub API v4) is a significant improvement on its A
 The great advantage of using the new API is that GraphQL enables one to specify the returning data, sparing the need for subqueries to fetch corresponding data.
 
 In this post, I will explain how to search for repositories and retrieve its name, description, URL, and the number of commits. Since the last information is a bit trickery, I will start with the formers.
+
+<!--more-->
 
 The next frame shows the query skeleton. It merely tells GitHub that it will query information (instead of creating, updating, or deleting).
 
@@ -236,5 +239,5 @@ And a subtract of the result:
 
 This post teaches how to create and execute GraphQL queries on GitHub. It helps to retrieve information without running multiple queries and avoid become stuck with the API rate limits. In the future, I will write another post explaining advanced queries. 
 
-Please, write your comment below. 
+Please, write your comments below. 
 
