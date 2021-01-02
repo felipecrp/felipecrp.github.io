@@ -104,7 +104,7 @@ If we check the Zenodo website, we can find the readme under our deposit files.
 
 ## Uploading large files
 
-Generally, we need to upload a large tarball file to Zenodo containing our dataset. Since the upload can take a while to conclude, it may help use a progress bar to mark to upload progress. The curl command provides this option.
+Generally, we need to upload a large tarball file to Zenodo containing our dataset. Since the upload can take a while to conclude, it may help use a progress bar to mark the upload progress. The curl command provides this option.
 
 ```bash
 curl --progress-bar \
