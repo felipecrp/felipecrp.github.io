@@ -4,6 +4,11 @@ title: Publications
 permalink: /publications/
 ---
 
+2021
+====
+  - **Felipe Curty do Rego Pinto**, Bruno Costa, Leonardo Murta, 2021. Assessing time-based and range-based strategies for commit assignment to release. 21 IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER).
+  [[doi](https://doi.org/10.1109/SANER50967.2021.00022)]
+
 2018
 ====
 
