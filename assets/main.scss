@@ -2,7 +2,25 @@
 ---
 @import "{{ site.theme }}";
 
-body {
-    font-size: 1.1em;
-}
+@import url("https://fonts.googleapis.com/css?family=Open Sans");
+@import url("https://fonts.googleapis.com/css?family=Anton");
 
+// body {
+//     font-size: 1.1em;
+// }
+
+main {
+    h1 {
+        font-family: "Anton";
+    }
+
+    p {
+        font-family: "Open Sans";
+        hyphens: auto;
+        text-align: justify;
+    }
+
+    .bonus {
+        border: 1px dashed gray;
+    }
+}
