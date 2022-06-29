@@ -1,0 +1,27 @@
+---
+---
+@import "{{ site.theme }}";
+
+
+header {
+    .wrapper {
+        // vertical-align: middle;
+    }
+    a.site-title {
+        display: flex;
+    }
+
+    a.site-title::before {
+        align-items: center;
+        content: '';
+        height: 2em;
+        width: 2em;
+        background-image: url('profile.jpg');
+        background-repeat: no-repeat;
+        background-size: 2em 2em;
+        display: inline-block;
+        border-radius: 1em;
+        margin-right: 0.5em;
+    }
+}
+
