@@ -5,7 +5,7 @@ comments: true
 excerpt_separator: <!--more-->
 ---
 
-# Introduction
+## Introduction
 
 Windows Subsystem for Linux (WSL2) enables developers to run a Linux
 distribution inside Windows. The version 2 is pretty optimized and provides a
@@ -25,9 +25,18 @@ why Arch Linux is an amazing distribution for developers. It allows developers
 to install almost everything without the need to worry about finding a specific
 repository. 
 
-## How to check the image integrity?
+## Let's create our Arch Linux WSL image
 
-After downloading the image file from the official mirror, it is important to
+Unfortunately, Microsoft does not provide an Arch Linux for WSL in the App
+Store. Hence, we need to build the image.
+
+##
+
+
+
+### How to check the image integrity?
+
+After downloading the image file from the officigl mirror, it is important to
 verify the file integrity to confirm that the correct file was downloaded and is
 not corrupted. It is possible to check the file integrity verifying the SHA-256
 hash sum, i.e., calculate the file hash with the SHA-256 algorithm and compare
