@@ -22,15 +22,16 @@ permalink: /publications/
 
   - **Curty, F.**, Kohwalter, T., Braganholo, V., Murta, L., 2018. An Infrastructure for Software Release Analysis through Provenance Graphs. Presented at the VI Workshop on Software Visualization, Evolution and Maintenance. 
   [[arXiv](https://arxiv.org/abs/1809.10265)]
-  [[download](https://goo.gl/9u8rzc)]
+  [[research gate](https://goo.gl/9u8rzc)]
+  [[download](/assets/papers/curty2018.pdf)]
 
 
 2010
 ====
   - Spínola, Rodrigo O., **Felipe C. do R. Pinto**, and Guilherme H. Travassos. “UbiCheck: An Approach to Support Requirements Definition in the Ubicomp Domain.” In Proceedings of the 2010 ACM Symposium on Applied Computing, 306–310. SAC ’10. New York, NY, USA: ACM, 2010. 
   [[doi](https://doi.org/10.1145/1774088.1774152)]
-  [[research gate](/assets/papers/curty2010.pdf)]
-  [[download](/assets/papers/curty2018.pdf)]
+  [[download](/assets/papers/curty2010.pdf)]
+
     
 2008
 ====
