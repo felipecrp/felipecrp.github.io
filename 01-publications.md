@@ -9,12 +9,13 @@ permalink: /publications/
 
   - **Felipe Curty do Rego Pinto** and Leonardo Gresta Paulino Murta, 2023. On the assignment of commits to releases. Empirical Software Engineering, volume 28. 
   [[doi](https://doi.org/10.1007/s10664-022-10263-x)]
-  [[preprint](/assets/papers/curty2023.pdf)]
+  [[preprint](/assets/papers/curty2023pp.pdf)]
 
 2021
 ====
   - **Felipe Curty do Rego Pinto**, Bruno Costa, Leonardo Murta, 2021. Assessing time-based and range-based strategies for commit assignment to release. 21 IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER).
   [[doi](https://doi.org/10.1109/SANER50967.2021.00022)]
+  [[preprint](/assets/papers/curty2021pp.pdf)]
 
 2018
 ====
@@ -27,7 +28,9 @@ permalink: /publications/
 2010
 ====
   - Spínola, Rodrigo O., **Felipe C. do R. Pinto**, and Guilherme H. Travassos. “UbiCheck: An Approach to Support Requirements Definition in the Ubicomp Domain.” In Proceedings of the 2010 ACM Symposium on Applied Computing, 306–310. SAC ’10. New York, NY, USA: ACM, 2010. 
-  [[doi](https://doi.org/10.1145/1774088.1774152)].
+  [[doi](https://doi.org/10.1145/1774088.1774152)]
+  [[research gate](/assets/papers/curty2010.pdf)]
+  [[download](/assets/papers/curty2018.pdf)]
     
 2008
 ====
@@ -36,6 +39,7 @@ permalink: /publications/
 
   - SPÍNOLA, RODRIGO O. ; **PINTO, F. C. R.** ; TRAVASSOS, G. H. . Supporting Requirements Definition and Quality Assurance in Ubiquitous Software Project. In: 3rd International Symposium on Leveraging Applications of Formal Methods, Verification and Validation, 2008, Kassandra, Chalkidiki, Greece. 3rd International Symposium on Leveraging Applications of Formal Methods, Verification and Validation, 2008.
   [[doi](https://doi.org/10.1007/978-3-540-88479-8_42)]
+  [[download](/assets/papers/curty2008b.pdf)]
 
   - **PINTO, F. C. R.**; SPÍNOLA, RODRIGO O. ; TRAVASSOS, G. H. . Abordagem para Apoiar a Definição de Requisitos de Software Ubíquo. In: II Workshop on Pervasive and Ubiquitous Computing (WPUC), 2008, Campo Grande. II Workshop on Pervasive and Ubiquitous Computing (WPUC), 2008.
 
