@@ -7,7 +7,7 @@ permalink: /publications/
 2023
 ====
 
-  - **Felipe Curty do Rego Pinto** and Leonardo Gresta Paulino Murta, 2023. On the assignment of commits to releases. Empirical Software Engineering, volume 28. 
+  - **Felipe Curty do Rego Pinto** and Leonardo Gresta Paulino Murta, 2023. On the assignment of commits to releases. Empirical Software Engineering (EMSE), volume 28. 
   [[doi](https://doi.org/10.1007/s10664-022-10263-x)]
   [[preprint](/assets/papers/curty2023pp.pdf)]
 
