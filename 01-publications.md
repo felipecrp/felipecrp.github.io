@@ -21,6 +21,7 @@ permalink: /publications/
 ====
 
   - **Curty, F.**, Kohwalter, T., Braganholo, V., Murta, L., 2018. An Infrastructure for Software Release Analysis through Provenance Graphs. Presented at the VI Workshop on Software Visualization, Evolution and Maintenance. 
+  [[doi](https://doi.org/10.48550/arXiv.1809.10265)]
   [[arXiv](https://arxiv.org/abs/1809.10265)]
   [[research gate](https://goo.gl/9u8rzc)]
   [[download](/assets/papers/curty2018.pdf)]
