@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Kanban for infrastructure and devops teams"
+title:  "Knowledge management for infrastructure teams"
 comments: true
 excerpt_separator: <!--more-->
 ---
@@ -11,56 +11,17 @@ are some barriers that muddle the use of such techniques in those teams. In this
 post I would like to share some thoughts about those barriers and discuss how
 could we bypass them.
 
-The first difficult I found deploying kanban in Infrastructure and Security is
+The first dificult I found deploying kanban in Infrastructure and Security is
 the lack of literature that talk and explain about the subject regarding
 those teams. The majority of the books and blog posts keep using development as
-example. However there are some key differences between developers and
+example. However there are some key diffences between developers and
 infrastructure teams. 
 
-Developers teams generally work toward the development of new features and
-bug fixes to a software product or project. A common board for developers
-contains three major action columns: doing, testing, and deploying.
-
-The task goes to doing when the development start. After the development,
-someone responsible to test the new feature would pull the card to testing and
-check the quality. Finally, after all, the developer deploy the code to Quality
-or Production System and the card is considered finished.
-
-The second difficult is that it seems more difficult to split infrastructure task
-into a coarse size that worth track on the board. For instance, small incidents
-would just include overhead to the board if they are managed as a card. Huge
-tasks, like infrastructure epics, could lay forever on the board, which is not
-the idea of agile.
-
-The third is the lack of product vision. In fact, the product owner is a common
-role in development teams but it is a misunderstood role for infrastructure
-teams. I would argue that the main product of infrastructure teams is the
-infrastructure itself. 
-
-The forth is the lack of business client vision. The infrastructure team is
-generally far away from the company client. Hence, they lack the vision of
-urgency and importance that may enable the correct prioritization of the tasks.
-
-
-Also, infrastructure teams generally manage contracts, which naturally increase
-the WIP. Some of the project activities are done by the contractors and the
-infrastructure team just need to track the status and check for quality issues.
-
-I would categorize infrastructure into three categories:
-
-  - General tasks - it represents the tasks that the team need to acomplish in
-    order to success.
-  - Incidents and service requests - it represents small and usually urgent
-    tasks that might interrupt the team.
-  - Tracking tasks - it represent General tasks that are handler by other
-    individual contributors, generally contractors.
-
-
-The developers work many times are more interchangeable. It means that developer
+The developers work many times are more interchangable. It means that developer
 team may be working on different features, but the developers are generally
 sharing at least the development stack, frameworks and programming language. Of
 course there are a lot of complex activities that can be impossible to onboard
-to inexperienced developers, but by the end of the day, it will be all about
+to unexperienced developers, but by the end of the day, it will be all about
 complexity and business logic. It is rare to find a developer team that manage
 several different technologies to develop a system. 
 
@@ -68,7 +29,7 @@ In infrastructure it is quite different. Instead of managing to use a common
 language or framework, infrastructure teams tend to manage different products
 that could be completely different on to the other. I'm not yelling that
 infrastructure work is more complex, but just that the nature of the work
-demands to be much more heterogeneous than developers team. 
+demands to be much more heterogenous than developers team. 
 
 For instance, I'm currently leading the SAP infrastructure team. They are four
 awesome guys that need to handle about one hundred server online with the most
