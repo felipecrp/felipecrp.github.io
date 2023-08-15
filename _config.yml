@@ -7,7 +7,7 @@ theme: minima
 
 markdown: kramdown
 
-google_analytics: G-PLFNYD2Z2K
+google_analytics: G-51C0H1VDJ6
 plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
