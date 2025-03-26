@@ -1,10 +1,10 @@
-+++
-title = 'Kanban for Infrastructure Teams'
-subtitle = 'Overcoming common barriers and adapting agile practices for IT operations.'
-date = '2023-07-25'
-author = 'Felipe Curty'
+---
+title: Kanban for Infrastructure Teams
+subtitle: Overcoming common barriers and adapting agile practices for IT operations.
+date: 2023-07-25
+author: 'Felipe Curty'
 # draft = true
-+++
+---
 
 When I started leading an IT infrastructure team and introduced Kanban to the
 team, I realized that adopting agile methods would be far from trivial. I faced

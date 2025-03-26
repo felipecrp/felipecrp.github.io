@@ -57,3 +57,12 @@ url = "http://x.com/felipecrp"
 [[params.socialIcons]]
 name = "bluesky"
 url = "https://bsky.app/profile/felipecrp.bsky.social"
+
+[[params.socialIcons]]
+name = "google scholar"
+url = "https://scholar.google.com.br/citations?user=jXGVY28AAAAJ&hl=en"
+
+[params.editPost]
+URL = "https://github.com/felipecrp/felipecrp.github.io/tree/hugo/content"
+Text = "Suggest Changes" # edit text
+appendFilePath = true
