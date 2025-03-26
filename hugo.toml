@@ -7,6 +7,22 @@ theme = ["PaperMod"]
 [outputs]
   home = ['html', 'rss', 'json']
 
+
+[languages.en]
+languageName = "English"
+weight = 1
+
+[[languages.en.menu.main]]
+name = "Posts"
+url = "posts/"
+weight = 10
+
+[[languages.en.menu.main]]
+name = "Search"
+url = "search/"
+weight = 10
+
+
 [params]
 env = "production"
 description = "Theme PaperMod - https://github.com/adityatelange/hugo-PaperMod"
