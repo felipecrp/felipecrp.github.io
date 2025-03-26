@@ -1,0 +1,8 @@
+baseURL = 'https://felipecrp.github.io'
+languageCode = 'en-us'
+title = 'Felipe Curty Personal Site'
+
+theme = ["PaperMod"]
+
+[outputs]
+  home = ['html', 'rss', 'json']
