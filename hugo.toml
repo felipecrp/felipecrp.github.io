@@ -6,3 +6,38 @@ theme = ["PaperMod"]
 
 [outputs]
   home = ['html', 'rss', 'json']
+
+[params]
+env = "production"
+description = "Theme PaperMod - https://github.com/adityatelange/hugo-PaperMod"
+
+[params.homeInfoParams]
+title = "Hi there! 👋"
+Content = """
+
+Welcom to my site!
+
+I am the Quality Assurance Team Leader at the Brazilian Development Bank, and
+Independent Software Engineer and Cybersecurity Researcher (Ph.D).
+
+I post about software engineering, cybersecurity, agile, devops, infrastructure 
+as code, etc.
+
+"""
+
+
+[[params.socialIcons]]
+name = "github"
+url = "https://github.com/felipecrp"
+
+[[params.socialIcons]]
+name = "linkedin"
+url = "http://linkedin.com/in/felipecrp"
+
+[[params.socialIcons]]
+name = "x"
+url = "http://x.com/felipecrp"
+
+[[params.socialIcons]]
+name = "bluesky"
+url = "https://bsky.app/profile/felipecrp.bsky.social"
