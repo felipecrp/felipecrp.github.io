@@ -41,9 +41,17 @@ params:
       url: http://x.com/felipecrp
     - name: bluesky
       url: https://bsky.app/profile/felipecrp.bsky.social
-    - name: google scholar
+    - name: googlescholar
       url: https://scholar.google.com.br/citations?user=jXGVY28AAAAJ&hl=en
+  ShowShareButtons: true
+  comments: true
+  # ShowBreadCrumbs: true
   # editPost:
   #   URL: https://github.com/felipecrp/felipecrp.github.io/tree/hugo/content
   #   Text: Suggest Changes
   #   appendFilePath: true
+services:
+  disqus:
+    shortname: felipecrp
+  googleAnalytics:
+    id: G-51C0H1VDJ6

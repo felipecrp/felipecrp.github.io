@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Uploading to Zenodo through API"
-comments: true
-excerpt_separator: <!--more-->
+date: 2021-01-01
+author: Felipe Curty
+tags:
+- open science
 ---
 
 Zenodo is a free repository to share scientific data. It enables researchers to upload an almost unlimited amount of data and suits pretty well to share research datasets. In this article, I explain how to use the Zenodo API to share a dataset. 
-
-<!--more-->
 
 We need to create a deposit to upload data to Zenodo. The deposit is the publication itself. It contains title, date, authors, DOI, description, and much other optional metadata. Once created, we can upload files to the deposit.
 

@@ -5,6 +5,9 @@ date: 2023-07-25
 # lastmod: 2025-03-26
 author: 'Felipe Curty'
 # draft = true
+tags:
+- agile
+- devops
 ---
 
 When I started leading an IT infrastructure team and introduced Kanban to the
