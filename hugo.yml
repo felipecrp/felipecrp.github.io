@@ -55,3 +55,7 @@ services:
     shortname: felipecrp
   googleAnalytics:
     id: G-51C0H1VDJ6
+
+caches:
+  images:
+    dir: :cacheDir/images
