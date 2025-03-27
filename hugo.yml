@@ -1,0 +1,43 @@
+baseURL: https://felipecrp.github.io
+languageCode: en-us
+title: Felipe Curty Personal Site
+theme:
+  - PaperMod
+outputs:
+  home:
+    - html
+    - rss
+    - json
+languages:
+  en:
+    languageName: English
+    weight: 1
+    menu:
+      main:
+        - name: Posts
+          url: posts/
+          weight: 10
+        - name: Search
+          url: search/
+          weight: 10
+params:
+  env: production
+  description: Theme PaperMod - https://github.com/adityatelange/hugo-PaperMod
+  homeInfoParams:
+    title: "Hi there! \U0001F44B"
+    Content: "\nWelcom to my site!\n\nI am the Quality Assurance Team Leader at the Brazilian Development Bank, and\nIndependent Software Engineer and Cybersecurity Researcher (Ph.D).\n\nI post about software engineering, cybersecurity, agile, devops, infrastructure \nas code, etc.\n\n"
+  socialIcons:
+    - name: github
+      url: https://github.com/felipecrp
+    - name: linkedin
+      url: http://linkedin.com/in/felipecrp
+    - name: x
+      url: http://x.com/felipecrp
+    - name: bluesky
+      url: https://bsky.app/profile/felipecrp.bsky.social
+    - name: google scholar
+      url: https://scholar.google.com.br/citations?user=jXGVY28AAAAJ&hl=en
+  editPost:
+    URL: https://github.com/felipecrp/felipecrp.github.io/tree/hugo/content
+    Text: Suggest Changes
+    appendFilePath: true

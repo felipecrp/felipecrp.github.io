@@ -2,7 +2,7 @@
 title: Kanban for Infrastructure Teams
 description: Overcoming common barriers and adapting agile practices for IT operations.
 date: 2023-07-25
-lastmod: 2025-03-26
+# lastmod: 2025-03-26
 author: 'Felipe Curty'
 # draft = true
 ---

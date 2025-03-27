@@ -1,3 +1,6 @@
+# Hugo
+public/
+
 # Jekyll
 _site/
 .sass-cache/
