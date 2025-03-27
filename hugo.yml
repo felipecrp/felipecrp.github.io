@@ -52,7 +52,7 @@ params:
   #   appendFilePath: true
 services:
   disqus:
-    shortname: felipecrp
+    shortname: personal-blog-ygdpwq4osw
   googleAnalytics:
     id: G-51C0H1VDJ6
 
