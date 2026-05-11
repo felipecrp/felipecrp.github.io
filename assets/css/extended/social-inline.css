@@ -1,3 +1,17 @@
+.about-photo {
+    float: right;
+    width: 200px;
+    margin: 0 0 1em 1.5em;
+}
+
+.about-photo img {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    object-fit: cover;
+    display: block;
+}
+
 .post-content ul:has(> li > .social-inline-link) {
     list-style: none;
     padding-inline-start: 0;

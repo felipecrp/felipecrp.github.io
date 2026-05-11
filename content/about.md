@@ -7,11 +7,22 @@ ShowToc: false
 comments: false
 ---
 
-I'm the Cyber Security and Quality Assurance Team Leader at the Brazilian Development Bank (BNDES), where I lead teams across application security, vulnerability management, and quality engineering. I'm also an independent researcher in cyber security and software engineering.
+{{< figure src="/assets/felipecrp.jpg" alt="Felipe Curty" class="about-photo" >}}
 
-I hold a **Ph.D. in Software Engineering** from the Computing Institute of Fluminense Federal University (UFF), a **Specialization in Defense and Cybersecurity** from the Brazilian War College (ESG), an **M.Sc.** in Systems Engineering and Computer Science from COPPE/UFRJ (2009), an **M.B.A.** in Business Administration from COPPEAD/UFRJ (2016), and a **B.Eng.** in Computer and Electronic Engineering from DEL/UFRJ (2005).
+I'm the Cyber Security and Quality Assurance Team Leader at the Brazilian
+Development Bank (BNDES), where I lead teams across application security,
+vulnerability management, and quality engineering. I'm also an independent
+researcher in cyber security and software engineering.
 
-Outside of work and research, I enjoy photography, video games, tabletop RPGs, and cooking — especially barbecue.
+I hold a **Ph.D. in Software Engineering** from the Computing Institute of
+Fluminense Federal University - UFF (2023), a **Specialization in Defense and
+Cybersecurity** from the Brazilian War College - ESG (2024), an **M.Sc.** in
+Systems Engineering and Computer Science from COPPE/UFRJ (2009), an **M.B.A.**
+in Business Administration from COPPEAD/UFRJ (2016), and a **B.Eng.** in
+Computer and Electronic Engineering from DEL/UFRJ (2005).
+
+Outside of work and research, I enjoy photography, video games, tabletop RPGs,
+and cooking — especially barbecue.
 
 ## Research interests
 
