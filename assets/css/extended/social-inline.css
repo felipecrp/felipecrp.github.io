@@ -1,0 +1,16 @@
+.post-content ul:has(> li > .social-inline-link) {
+    list-style: none;
+    padding-inline-start: 0;
+}
+
+.social-inline-link {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.4em;
+    text-decoration: none;
+}
+
+.social-inline-link svg {
+    height: 1.1em;
+    width: 1.1em;
+}

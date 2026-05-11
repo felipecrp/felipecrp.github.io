@@ -14,6 +14,9 @@ languages:
     weight: 1
     menu:
       main:
+        - name: About
+          url: about/
+          weight: 5
         - name: Posts
           url: posts/
           weight: 10
@@ -28,10 +31,19 @@ languages:
           weight: 10
 params:
   env: production
-  description: Theme PaperMod - https://github.com/adityatelange/hugo-PaperMod
+  description: Personal site of Felipe Curty — cyber security and quality engineering leader, researcher in software engineering and DevSecOps.
   homeInfoParams:
     title: "Hi there! \U0001F44B"
-    Content: "\nWelcom to my site!\n\nI am the Quality Assurance Team Leader at the Brazilian Development Bank, and\nIndependent Software Engineer and Cybersecurity Researcher (Ph.D).\n\nI post about software engineering, cybersecurity, agile, devops, infrastructure \nas code, etc.\n\n"
+    Content: |
+
+      Welcome to my site!
+
+      I'm the Cyber Security and Quality Assurance Team Leader at the Brazilian Development Bank (BNDES), and an independent researcher in cyber security and software engineering (Ph.D.).
+
+      I write about release engineering, cyber security, DevSecOps, agile, infrastructure as code, and the practice of leading engineering teams.
+
+      Read more on the [about page](/about/).
+
   socialIcons:
     - name: github
       url: https://github.com/felipecrp

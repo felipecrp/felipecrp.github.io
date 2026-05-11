@@ -1,0 +1,4 @@
+{{- $name := .Get "name" -}}
+{{- $url := .Get "url" -}}
+{{- $label := .Get "label" | default $name -}}
+<a href="{{ $url }}" target="_blank" rel="noopener noreferrer me" class="social-inline-link">{{ partial "svg.html" (dict "name" $name) }}<span>{{ $label }}</span></a>
