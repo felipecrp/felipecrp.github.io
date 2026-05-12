@@ -36,8 +36,6 @@ params:
     title: "Hi there! \U0001F44B"
     Content: |
 
-      Welcome to my site!
-
       I'm the Cyber Security and Quality Assurance Team Leader at the Brazilian Development Bank (BNDES), and an independent researcher in cyber security and software engineering (Ph.D.).
 
       I write about release engineering, cyber security, DevSecOps, agile, infrastructure as code, and the practice of leading engineering teams.
