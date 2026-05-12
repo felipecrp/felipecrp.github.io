@@ -1,10 +1,13 @@
 ---
-layout: post
-title:  "Getting started to GitHub GraphQL API"
+title: Getting started to GitHub GraphQL API
 date: 2020-07-26
 author: Felipe Curty
 tags:
 - git mining
+cover:
+  image: headline.png
+  alt: An abstract graph data structure with branching nodes, one path highlighted as a returned query result
+  relative: true
 ---
 
 The GitHub GraphQL API (aka GitHub API v4) is a significant improvement on its API and enables researchers to interact with GitHub more efficiently. Although similar results can be achieved with the old API, depending on the required data, researchers need to make the first query and then make subqueries to fetch corresponding data, leading to problems with the API rate limits.

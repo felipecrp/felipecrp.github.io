@@ -8,6 +8,10 @@ author: 'Felipe Curty'
 tags:
 - agile
 - devops
+cover:
+  image: headline.png
+  alt: A kanban board with three columns, sticky notes moving between them, and faded server racks in the background
+  relative: true
 ---
 
 When I started leading an IT infrastructure team and introduced Kanban to the

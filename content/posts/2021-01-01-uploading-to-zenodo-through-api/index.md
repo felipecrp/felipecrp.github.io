@@ -1,10 +1,13 @@
 ---
-layout: post
-title:  "Uploading to Zenodo through API"
+title: Uploading to Zenodo through API
 date: 2021-01-01
 author: Felipe Curty
 tags:
 - open science
+cover:
+  image: headline.png
+  alt: Research files flowing upward into a glowing cloud archive marked with a DOI tag
+  relative: true
 ---
 
 Zenodo is a free repository to share scientific data. It enables researchers to upload an almost unlimited amount of data and suits pretty well to share research datasets. In this article, I explain how to use the Zenodo API to share a dataset. 

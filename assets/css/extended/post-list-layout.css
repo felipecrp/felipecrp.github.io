@@ -1,0 +1,31 @@
+@media (min-width: 768px) {
+    .post-entry {
+        display: grid;
+        grid-template-columns: 280px 1fr;
+        grid-template-areas:
+            "header header"
+            "cover  content"
+            "cover  footer";
+        gap: 8px 24px;
+        align-items: start;
+    }
+
+    .post-entry .entry-cover {
+        grid-area: cover;
+        margin: 0;
+    }
+
+    .post-entry .entry-header  { grid-area: header; }
+    .post-entry .entry-content {
+        grid-area: content;
+        -webkit-line-clamp: 5;
+        line-clamp: 5;
+    }
+    .post-entry .entry-footer  { grid-area: footer; }
+
+    .post-entry .entry-cover img {
+        aspect-ratio: 16 / 9;
+        object-fit: cover;
+        width: 100%;
+    }
+}
