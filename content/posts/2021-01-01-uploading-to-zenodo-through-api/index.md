@@ -3,7 +3,7 @@ title: Uploading to Zenodo through API
 date: 2021-01-01
 author: Felipe Curty
 tags:
-- open science
+- Open Science
 cover:
   image: headline.png
   alt: Research files flowing upward into a glowing cloud archive marked with a DOI tag

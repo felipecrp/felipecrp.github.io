@@ -6,8 +6,8 @@ date: 2023-07-25
 author: 'Felipe Curty'
 # draft = true
 tags:
-- agile
-- devops
+- Agile
+- DevOps
 cover:
   image: headline.png
   alt: A kanban board with three columns, sticky notes moving between them, and faded server racks in the background

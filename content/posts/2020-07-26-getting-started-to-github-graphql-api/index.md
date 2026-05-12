@@ -3,7 +3,7 @@ title: Getting started to GitHub GraphQL API
 date: 2020-07-26
 author: Felipe Curty
 tags:
-- git mining
+- Git Mining
 cover:
   image: headline.png
   alt: An abstract graph data structure with branching nodes, one path highlighted as a returned query result

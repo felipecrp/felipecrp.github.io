@@ -4,9 +4,9 @@ description: Why infrastructure teams struggle to share knowledge, and what has 
 date: 2026-05-11
 author: 'Felipe Curty'
 tags:
-- knowledge-management
-- infrastructure
-- devops
+- Knowledge Management
+- Infrastructure
+- DevOps
 cover:
   image: headline.png
   alt: Cover illustration for the post

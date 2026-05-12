@@ -1,3 +1,8 @@
+/* PaperMod hides cover images on tag/term pages by default. Re-enable. */
+.tag-entry .entry-cover {
+    display: revert;
+}
+
 @media (min-width: 768px) {
     .post-entry {
         display: grid;

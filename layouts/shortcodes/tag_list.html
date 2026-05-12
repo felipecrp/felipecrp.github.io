@@ -1,0 +1,10 @@
+{{- $tags := site.Taxonomies.tags -}}
+{{- if $tags -}}
+<ul class="post-tags">
+{{- range $name, $entries := $tags }}
+  {{- with site.GetPage (printf "/tags/%s" $name) }}
+  <li><a href="{{ .Permalink }}">{{ .LinkTitle }} ({{ len $entries }})</a></li>
+  {{- end }}
+{{- end }}
+</ul>
+{{- end -}}
