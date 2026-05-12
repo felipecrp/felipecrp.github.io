@@ -1,6 +1,9 @@
 # Hugo
 public/
 
+# Windows/WSL alternate data stream artifacts from downloaded files
+*:Zone.Identifier
+
 # Jekyll
 _site/
 .sass-cache/
