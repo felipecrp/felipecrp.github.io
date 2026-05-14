@@ -42,6 +42,7 @@ title: Publications
   [[download](/assets/papers/curty2008b.pdf)]
 
   - **PINTO, F. C. R.**; SPÍNOLA, RODRIGO O. ; TRAVASSOS, G. H. . Abordagem para Apoiar a Definição de Requisitos de Software Ubíquo. In: II Workshop on Pervasive and Ubiquitous Computing (WPUC), 2008, Campo Grande. II Workshop on Pervasive and Ubiquitous Computing (WPUC), 2008.
+  [[download](/assets/papers/curty2008a.pdf)]
 
 2005
 ====
